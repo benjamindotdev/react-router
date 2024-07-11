@@ -1,0 +1,23 @@
+#root {
+  margin: 0;
+  padding: 0;
+}
+
+.app {
+  padding: 2.5vh 2.5vw;
+  height: 95vh;
+  width: 95vw;
+  background: #eeeeee;
+  color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.navbar {
+  height: 10vh;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
